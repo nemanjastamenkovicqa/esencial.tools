@@ -3,9 +3,10 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+}
+h1, p {
   text-align: center;
 }
-
 /* Center the form container */
 .form-container {
   width: 400px;
