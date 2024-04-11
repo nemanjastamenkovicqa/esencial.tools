@@ -5,9 +5,9 @@
   padding: 0;
 }
 
-/* Style the form container */
+/* Center the form container */
 .form-container {
-  max-width: 400px;
+  width: 400px;
   margin: 0 auto;
   padding: 20px;
   background-color: #f9f9f9;
