@@ -1,5 +1,6 @@
-Project Name: Esencial.Tools
+Esencial.Tools
 Overview
+
 Esencial.Tools is a sophisticated compilation of essential utilities consolidated into a single, cohesive web platform. Developed with the discerning programmer in mind, this collection offers an indispensable array of tools tailored to simplify and expedite everyday tasks. From data manipulation to code optimization, Esencial.Tools provides a seamless user experience, empowering developers to maximize productivity and efficiency.
 
 Key Features
