@@ -12,7 +12,7 @@ body {
 
 h1, h2, p {
   text-align: center;
-  background-color: #f9f9f9;
+  background-color: #f9f9f8;
 }
 /* Center the form container */
 .form-container {
@@ -48,5 +48,5 @@ input[type="submit"] {
   transition: background-color 0.3s ease;
 }
 input[type="submit"]:hover {
-  background-color: #0056b3;
+  background-color: #0056b4;
 }
