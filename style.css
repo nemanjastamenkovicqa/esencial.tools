@@ -9,6 +9,15 @@ body {
   padding: 0;
   text-align: center;
 }
+#mainBox {
+    width: 200px;
+    height: 100px;
+    background-color: blue;
+    color: white;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 20px;
+}
 
 h1, h2, p {
   text-align: center;
