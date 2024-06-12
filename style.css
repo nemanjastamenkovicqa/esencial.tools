@@ -1,5 +1,14 @@
 body {
-  background-color: #DCDCDD;
+  display: flex;
+            justify-content: center; /* Horizontally centers the div */
+            align-items: center;    /* Vertically centers the div */
+            height: 100vh;          /* Ensures the body takes up the full viewport height */
+            margin: 0;              /* Removes default margin */
+        }
+        .centered-div {
+            width: 200px;
+            height: 200px;
+            background-color: lightgray;
 }
 
 
