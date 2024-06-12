@@ -12,8 +12,8 @@ body {
 #mainBox {
     width: 200px;
     height: 100px;
-    background-color: blue;
-    color: white;
+    
+    color: black;
     border: 2px solid black;
     padding: 10px;
     margin: 20px;
