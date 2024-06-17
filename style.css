@@ -8,7 +8,6 @@ body {
   background-color: lightgray;
 }
 
-
 * {
   box-sizing: border-box;
   margin: 0;
@@ -29,6 +28,7 @@ h1, h2, p {
   text-align: center;
   background-color: #f9f9f8;
 }
+
 /* Center the form container */
 .form-container {
   width: 400px;
