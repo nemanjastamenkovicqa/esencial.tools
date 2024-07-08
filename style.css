@@ -1,47 +1,15 @@
 body {
-             color: gray;
-}
+             color: black;
+             background-color: gray;
+              text-align: center;
 
-.centered-div {
-  width: 200px;
-  height: 200px;
-  background-color: black;
-}
 
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  text-align: left;
-}
-#mainBox {
-    width: 200px;
-    height: 100px;
-    
-    color: black;
-    border: 2px solid black;
-    padding: 10px;
-    margin: 20px;
 }
 
 h1, h2, p {
   text-align: center;
-  background-color: #f9f9f8;
 }
 
-/* Center the form container */
-.form-container {
-  width: 400px;
-  margin: 0 auto;
-  padding: 20px;
-  background-color: #f9f9f9;
-  border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-/* Style the form labels */
-label {
-  font-weight: bold;
-}
 /* Style the form inputs and textarea */
 input[type="email"],
 textarea {
