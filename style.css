@@ -9,6 +9,10 @@ h1, h2, p {
   text-align: center;
 }
 
+br {
+    color:black;
+}
+
 /* Style the form inputs and textarea */
 input[type="email"] {
 width: 220px;
